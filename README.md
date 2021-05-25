@@ -4,13 +4,13 @@
 - 👀 I’m interested in game, desktop applications and web development
 
 
-- 🌱 I’m currently figuring out the fundamentals of programming, which include the topics I am interested in, as well as understanding the tools I need for the real world
+- 🌱 I’m currently figuring out the fundamentals of programming, which include the topics I am interested in, as well as understanding the tools I need, and the real world
 
 
-- 💞️ I’m looking to collaborate on implementing creative ideas of mine which will benefit the world
+- 💞️ I’m looking to collaborate on implementing creative ideas of mine which will benefit the world, or imrpoving what has already been done
 
 
-- 📫 For now, the only way to reach me is through github 
+- 📫 For now, this is the only way to reach me
 
 <!---
 raducornea/raducornea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
