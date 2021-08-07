@@ -1,4 +1,4 @@
-- 👋 CS Student
+- 🎓 CS Student, 👽 Programmer, 🎥 Video Producer
 - 👀 Interested in game, applications and web dev
 - 🌱 Currently studying for an exam and doing little projects
 - 💞️ Friendly & Growing > Hostile & Grown Up
