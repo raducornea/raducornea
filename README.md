@@ -1,15 +1,7 @@
-- 👋 Hi, I’m Radu, a student at Computer Science University in Romania
-
-
-- 👀 I’m interested in game, desktop applications and web development
-
-
-- 🌱 I’m currently figuring out the fundamentals of programming, which include the topics I am interested in, as well as understanding the tools I need, and the real world
-
-
-- 💞️ I’m looking to collaborate on implementing creative ideas of mine which will benefit the world, or imrpoving what has already been done
-
-
+- 👋 CS Student
+- 👀 Interested in game, applications and web dev
+- 🌱 Currently studying for an exam and doing little projects
+- 💞️ Friendly & Growing > Hostile & Grown Up
 - 📫 For now, this is the only way to reach me
 
 <!---
