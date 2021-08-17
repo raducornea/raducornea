@@ -1,8 +1,8 @@
-- 🎓 CS Student, 👽 Programmer, 🎥 Video Producer
-- 👀 Interested in game, applications and web dev
-- 🌱 Currently studying for an exam and doing little projects
-- 💞️ Friendly & Growing > Hostile & Grown Up
-- 📫 For now, this is the only way to reach me
+- CS Student, Programmer, Video Producer 🎓👽🎥
+- Interested in Game, Applications and Web Development 🎮💻🕸️
+- Currently studying for an exam and doing little projects 🇫🖍
+- Friendly & Growing > Hostile & Grown Up 💞️ 
+- For now, this is the only way to reach me 📫
 
 <!---
 raducornea/raducornea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
