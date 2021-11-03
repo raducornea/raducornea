@@ -1,4 +1,4 @@
-- Computer Engineering Student, Video Producer 🎓👽🎥
+- Computer Engineering Student, Video Maker Enthusiast 🎓👽🎥
 - Interested in Game, Applications and Web Development 🎮💻🕸️
 - Currently learning a bit of Android 📱
 - Friendly & Growing > Hostile & Grown Up 💞️ 
