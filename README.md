@@ -1,4 +1,4 @@
-Check out my [Development Secction](https://github.com/raducornea/Development) to see more about my progress!
+Check out my [Development Section](https://github.com/raducornea/Development) to see more about my progress!
 
 - Computer Engineering Student, Video Maker Enthusiast 👽🎥
 - Interested in Game, Applications and Web Development 📱💻🕸️
