@@ -105,13 +105,16 @@
 </p>
 -->
 
-<h2 align="left">Statistics:</h3>
+<h1 align="left">Statistics</h3>
 <p align="center">
 &nbsp;&nbsp;&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=raducornea&show_icons=true&locale=en" alt="raducornea" />
 &nbsp;&nbsp;&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raducornea&show_icons=true&locale=en&layout=compact" alt="raducornea" />
 &nbsp;&nbsp;&nbsp;
+</p>
+  
+<p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raducornea&" alt="raducornea" />
 </p>
 
